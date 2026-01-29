@@ -1,2 +1,2 @@
-# Di-rio
+# Diario
 Diário de Obras
